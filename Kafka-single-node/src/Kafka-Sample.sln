@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{E4A2B95D-7558-456B-97C6-C357664D1F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{ECD1766C-1A0A-45D9-8030-D13D98C5F1F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A2B95D-7558-456B-97C6-C357664D1F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A2B95D-7558-456B-97C6-C357664D1F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A2B95D-7558-456B-97C6-C357664D1F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A2B95D-7558-456B-97C6-C357664D1F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD1766C-1A0A-45D9-8030-D13D98C5F1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD1766C-1A0A-45D9-8030-D13D98C5F1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD1766C-1A0A-45D9-8030-D13D98C5F1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD1766C-1A0A-45D9-8030-D13D98C5F1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

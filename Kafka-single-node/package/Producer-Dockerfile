@@ -1,0 +1,7 @@
+FROM mcr.microsoft.com/dotnet/sdk
+
+COPY dist/producer /var/app
+
+WORKDIR /var/app
+
+ENTRYPOINT ['dotnet run']
